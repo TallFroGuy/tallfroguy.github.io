@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "TallFroGuy's first post"
 date: 2022-11-15
 ---
 
