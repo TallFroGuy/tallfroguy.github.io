@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: TallFroGuy
+email: tallfroguy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results).
+  A site for the various sketches and doodles of TallFroGuy. He draws as well as he codes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -41,10 +39,10 @@ markdown: kramdown
 
 gallery:
   root: true                # If the main index is the galley right away. This is false by default.
-  dir: photos               # Path to the gallery
+  dir: comics               # Path to the gallery
   symlink: true             # false: copy images into _site. true: create symbolic links (saves disk space)
-  title: "Photos"           # Title for gallery index page
-  title_prefix: "Photos: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
+  title: "Comics"           # Title for gallery index page
+  title_prefix: "Comics: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
   auto_orient: false        # False by default. When activated it rotates the images based on the exifr.
   sort_field: "date_time"   # How to sort galleries on the index page.
                             # Possible values are: title, date_time, best_image
