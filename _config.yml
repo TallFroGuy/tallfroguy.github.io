@@ -16,11 +16,12 @@
 title: TallFroGuy
 email: tallfroguy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A site for the various sketches and doodles of TallFroGuy. He draws as well as he codes.
+  A site for the various comics, memes and art of TallFroGuy.
+  He draws as well as he codes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: TallFroGuy
+github_username:  TallFroGuy
 
 # Build settings
 markdown: kramdown
