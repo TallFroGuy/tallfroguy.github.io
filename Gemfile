@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.1"
+gem "webrick"
 gem "jekyll-minimagick", "~>0.0.4"  
 gem "exifr", "~>1.3.5"
 # Required for Windows machines to enable the polling.
